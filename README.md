@@ -1,6 +1,6 @@
 # Bonjour, je suis Amal 👋
 
-🎓 **Élève ingénieure en 5ᵉ année à l'ENSA de Tétouan, filière :  **Big Data et Intelligence Artificielle**.
+🎓 **Élève ingénieure en 5ᵉ année à l'ENSA de Tétouan**, filière :  **Big Data et Intelligence Artificielle**.
 
 Je m'intéresse à la conception de solutions intelligentes basées sur les données, avec un intérêt particulier pour le **Machine Learning, le Deep Learning, la Data Science, le Computer Vision et le MLOps**.
 

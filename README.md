@@ -12,11 +12,55 @@ Portfolio : [amalafenich.github.io](https://amalafenich.github.io)
 
 ## Parcours
 
-**Cycle ingénieur Big Data et Intelligence Artificielle, ENSA Tétouan** (2024 - présent)
+> **01 &nbsp;&nbsp; 2024 — PRÉSENT · DERNIÈRE ANNÉE**
+>
+> **ENSA TÉTOUAN**
+>
+> ### Diplôme d'ingénieur d'État — Big Data & Intelligence Artificielle
+>
+> Formation d'ingénieur avancée, centrée sur les systèmes Data & IA de bout en bout : ingénierie des données, bases de données, analyse, machine learning, traitement distribué, API et applications intelligentes, à travers des projets.
 
-**Cycle préparatoire (2AP), ENSA Tétouan** (2022 - 2024)
+> **02 &nbsp;&nbsp; 2022 — 2024 · TERMINÉ**
+>
+> **ENSA TÉTOUAN**
+>
+> ### Cycle préparatoire intégré (2AP)
+>
+> Une base scientifique et technique rigoureuse, construite autour des mathématiques, des algorithmes, de la programmation et de la résolution de problèmes, pour acquérir la profondeur d'analyse nécessaire au cycle ingénieur Big Data & IA.
 
-**Baccalauréat Sciences Physiques, mention Très Bien**, Lycée Med Ben El Hassan El Ouazzani, Khémisset (2022)
+> **03 &nbsp;&nbsp; 2022 · TERMINÉ**
+>
+> **LYCÉE MED BEN EL HASSAN EL OUAZZANI · KHÉMISSET**
+>
+> ### Baccalauréat Sciences Physiques — Mention Très Bien
+>
+> Diplôme obtenu avec la mention Très Bien, qui m'a ouvert la voie vers les études d'ingénieur.
+
+### Vie associative
+
+> **01 &nbsp;&nbsp; MEMBRE ACTIF**
+>
+> **CLUB IA · ENSA TÉTOUAN**
+>
+> ### Organisation de l'événement Microsoft
+>
+> Organisation de l'événement Microsoft en collaboration avec le club IA de l'ENSA Tétouan.
+
+> **02 &nbsp;&nbsp; MEMBRE ACTIF**
+>
+> **CLUB MÉCATRONIQUE · ENSA TÉTOUAN**
+>
+> ### Compétition Nationale de la Robotique (CNR)
+>
+> Organisation de la Compétition Nationale de la Robotique au sein du club mécatronique de l'ENSA Tétouan.
+
+> **03 &nbsp;&nbsp; PARTICIPATION**
+>
+> **RABAT · MARTIL**
+>
+> ### Hackathons
+>
+> Travail en équipe pour relever des défis pratiques dans un temps limité et présenter nos solutions devant un jury.
 
 ---
 
@@ -58,36 +102,85 @@ FastAPI · API REST · Docker · Azure Machine Learning · MLflow · Azure Conta
 
 ## Projets sur GitHub
 
-**[BioSentry : détection précoce des effets secondaires de médicaments](https://github.com/amalafenich/biosentry)**  
-Plateforme de pharmacovigilance qui collecte des sources médicales publiques, extrait les effets secondaires par NLP, puis repère les signaux faibles grâce au clustering et à la détection d'anomalies.  
-*Python, Selenium, MongoDB, NLP, K-Means, HDBSCAN, Isolation Forest*
+### [BioSentry : détection précoce des effets secondaires de médicaments](https://github.com/amalafenich/biosentry)
 
-**[Pipeline MLOps California Housing](https://github.com/amalafenich/mlops-california-housing)**  
-Chaîne complète sur Azure Machine Learning : entraînement automatisé, suivi des expériences avec MLflow, CI/CD avec GitHub Actions et déploiement A/B d'un modèle derrière une API REST.  
-*Azure ML, MLflow, Docker, GitHub Actions*
+Plateforme qui suit les effets secondaires des médicaments et alerte quand la tendance devient anormale. Projet d'équipe (4 étudiantes) pour le module Web Analysis.
 
-**[Streaming de données météo en temps réel](https://github.com/amalafenich/weather-streaming-pipeline)**  
-Données de deux API transmises par Kafka, traitées avec Spark Structured Streaming, stockées dans InfluxDB et affichées dans des tableaux de bord Grafana.  
+**Points clés**
+- 7 sources publiques collectées pour 513 médicaments
+- Extraction des effets secondaires avec BioBERT
+- Alertes à 4 niveaux grâce à trois détecteurs d'anomalies combinés
+
+*Python, Selenium, MongoDB, NLP, BioBERT, K-Means, HDBSCAN, Isolation Forest*
+
+### [Pipeline MLOps California Housing](https://github.com/amalafenich/mlops-california-housing)
+
+Chaîne automatisée qui mène un modèle de prédiction de prix immobiliers de l'entraînement à la production sur Azure. Réalisée pendant mon stage chez Smartovate.
+
+**Points clés**
+- Entraînement automatisé et suivi des expériences avec MLflow
+- Modèle publié seulement s'il atteint un R² d'au moins 0,7
+- Déploiement automatique en API REST, avec deux versions comparées (80 % / 20 %)
+
+*Azure ML, MLflow, Docker, GitHub Actions, Azure Container Registry*
+
+### [Streaming de données météo en temps réel](https://github.com/amalafenich/weather-streaming-pipeline)
+
+Pipeline temps réel qui récupère la météo auprès de deux fournisseurs. Les mesures sont comparées dans des tableaux de bord Grafana.
+
+**Points clés**
+- Deux API interrogées toutes les 30 secondes
+- Kafka, puis Spark Structured Streaming, puis InfluxDB
+- Toute l'infrastructure se lance avec Docker Compose
+
 *Kafka, Spark, InfluxDB, Grafana, Docker*
 
-**[SignSense AI : reconnaissance de la langue des signes](https://github.com/amalafenich/asl-sign-language-recognition)**  
-Application web qui reconnaît en temps réel l'alphabet de la langue des signes américaine à partir de la webcam, puis construit le texte et le lit à voix haute.  
-*TensorFlow, CNN, MediaPipe, FastAPI, React*
+### [SignSense AI : reconnaissance de la langue des signes](https://github.com/amalafenich/asl-sign-language-recognition)
 
-**[Jeu contrôlé par gestes](https://github.com/amalafenich/car-game)**  
-Jeu 2D piloté par les gestes de la main : MediaPipe lit la webcam et la voiture réagit en temps réel.  
+Application web qui reconnaît en temps réel l'alphabet de la langue des signes américaine via la webcam. Prototype académique de groupe, limité aux lettres statiques.
+
+**Points clés**
+- 21 points de la main détectés avec MediaPipe
+- Un réseau CNN classe les lettres de A à Z
+- Les lettres forment des phrases, traduites et lues à voix haute
+
+*TensorFlow, Keras, CNN, MediaPipe, FastAPI, React*
+
+### [Jeu contrôlé par gestes](https://github.com/amalafenich/car-game)
+
+Jeu d'esquive en 2D piloté par les gestes de la main, sans clavier ni manette. La voiture réagit en temps réel devant la webcam.
+
+**Points clés**
+- 4 gestes reconnus, chacun associé à une action
+- Jeu fluide à 60 images par seconde, avec obstacles aléatoires
+- Un nouveau niveau toutes les 15 secondes
+
 *Python, MediaPipe, OpenCV, Pygame*
 
 ---
 
 ## Autres projets (code source non publié)
 
-**AquaMaroc : suivi du stress hydrique**  
-Plateforme qui exploite des données climatiques, hydrologiques et satellitaires pour suivre la situation de l'eau dans les régions du Maroc, avec indicateurs, modèles prédictifs et visualisation par région.  
-*Python, Machine Learning, React, TypeScript, SQLite, Prisma*
+### AquaMaroc : suivi du stress hydrique
 
-**Smart Waste Bin**  
-Détection et classification de déchets en temps réel : création et annotation du jeu de données, puis entraînement d'un modèle YOLO.  
+Plateforme de suivi du stress hydrique au Maroc à partir de données climatiques, hydrologiques et satellitaires. Elle propose des indicateurs et une visualisation région par région.
+
+**Points clés**
+- Données environnementales de plusieurs sources
+- Indicateurs et modélisation prédictive
+- Interface de visualisation par région
+
+*Python, Machine Learning, NLP, React, TypeScript, SQLite, Prisma*
+
+### Smart Waste Bin
+
+Système de détection et de classification de déchets en temps réel grâce à la vision par ordinateur. Un modèle YOLO reconnaît plusieurs catégories de déchets.
+
+**Points clés**
+- Création du jeu de données et annotation des images
+- Entraînement du modèle YOLO
+- Détection en temps réel
+
 *Python, YOLO, OpenCV*
 
 ---

@@ -13,55 +13,21 @@ Portfolio : [amalafenich.github.io](https://amalafenich.github.io)
 ## Parcours
 
 >
->
-> ### **ENSA TÉTOUAN — Big Data & Intelligence Artificielle  ** 2024 — PRÉSENT **
+> ### ENSA TÉTOUAN — Big Data & Intelligence Artificielle (2024 — PRÉSENT)
 >
 > Formation d'ingénieur avancée, centrée sur les systèmes Data & IA de bout en bout : ingénierie des données, bases de données, analyse, machine learning, traitement distribué, API et applications intelligentes, à travers des projets.
 
 > **02 &nbsp;&nbsp; 2022 — 2024 · TERMINÉ**
 >
-> **ENSA TÉTOUAN**
+> ### ENSA TÉTOUAN - Cycle préparatoire (2AP) (2022 — 2024)
 >
-> ### Cycle préparatoire intégré (2AP)
+> Une base scientifique et technique rigoureuse, construite autour des mathématiques, des algorithmes, de la programmation et de la résolution de problèmes, pour acquérir la profondeur d'analyse nécessaire au cycle ingénieur Big Data & IA
 >
-> Une base scientifique et technique rigoureuse, construite autour des mathématiques, des algorithmes, de la programmation et de la résolution de problèmes, pour acquérir la profondeur d'analyse nécessaire au cycle ingénieur Big Data & IA.
-
-> **03 &nbsp;&nbsp; 2022 · TERMINÉ**
+> ### Baccalauréat Sciences Physiques — Mention Très Bien (2022)
 >
-> **LYCÉE MED BEN EL HASSAN EL OUAZZANI · KHÉMISSET**
->
-> ### Baccalauréat Sciences Physiques — Mention Très Bien
->
-> Diplôme obtenu avec la mention Très Bien, qui m'a ouvert la voie vers les études d'ingénieur.
-
-### Vie associative
-
-> **01 &nbsp;&nbsp; MEMBRE ACTIF**
->
-> **CLUB IA · ENSA TÉTOUAN**
->
-> ### Organisation de l'événement Microsoft
->
-> Organisation de l'événement Microsoft en collaboration avec le club IA de l'ENSA Tétouan.
-
-> **02 &nbsp;&nbsp; MEMBRE ACTIF**
->
-> **CLUB MÉCATRONIQUE · ENSA TÉTOUAN**
->
-> ### Compétition Nationale de la Robotique (CNR)
->
-> Organisation de la Compétition Nationale de la Robotique au sein du club mécatronique de l'ENSA Tétouan.
-
-> **03 &nbsp;&nbsp; PARTICIPATION**
->
-> **RABAT · MARTIL**
->
-> ### Hackathons
->
-> Travail en équipe pour relever des défis pratiques dans un temps limité et présenter nos solutions devant un jury.
+> Diplôme obtenu avec la mention Très Bien à LYCÉE MED BEN EL HASSAN EL OUAZZANI · KHÉMISSET 
 
 ---
-
 ## Expérience professionnelle
 
 **Stage PFA, Smartovate** (juillet - août 2026)

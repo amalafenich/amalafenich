@@ -1,155 +1,100 @@
-# Bonjour, je suis Amal 👋
+# Amal Afenich
 
-🎓 **Élève ingénieure en 5ᵉ année à l'ENSA de Tétouan**, filière :  **Big Data et Intelligence Artificielle**.
+Élève ingénieure en dernière année Big Data et Intelligence Artificielle à l'ENSA Tétouan.
 
-Je m'intéresse à la conception de solutions intelligentes basées sur les données, avec un intérêt particulier pour le **Machine Learning, le Deep Learning, la Data Science, le Computer Vision et le MLOps**.
+Je transforme des données brutes en modèles et en applications utilisables. Ce qui me motive : suivre un projet de bout en bout, de la collecte des données jusqu'au déploiement, et comprendre pourquoi un modèle fonctionne, pas seulement qu'il fonctionne.
 
-À travers mes projets académiques et personnels, je développe mes compétences en **traitement et analyse des données, modélisation prédictive, intelligence artificielle et déploiement de modèles**.
+**Je recherche un stage PFE à partir de janvier 2027** en Data Science, Machine Learning Engineering, MLOps ou Data Engineering.
 
----
-
-## 🎯 Objectif professionnel
-
-Je souhaite mettre en pratique mes compétences à travers des **projets concrets en Big Data et Intelligence Artificielle**, tout en développant mon expérience dans des environnements professionnels.
-
-Mes principaux domaines d'intérêt sont :
-
-* 🤖 Intelligence Artificielle & Machine Learning
-* 🧠 Deep Learning
-* 📊 Data Science & Analyse de données
-* ⚙️ MLOps & Machine Learning Engineering
-* ☁️ Cloud & Data Engineering
-* 👁️ Computer Vision
-* 📝 NLP & Web Mining
+Portfolio : [amalafenich.github.io](https://amalafenich.github.io)
 
 ---
 
-## 🛠️ Compétences techniques
+## Parcours
 
-### 💻 Programmation & Data
+**Cycle ingénieur Big Data et Intelligence Artificielle, ENSA Tétouan** (2024 - présent)
 
-* **Python**
-* **SQL**
-* **Pandas**
-* **NumPy**
-* **Matplotlib**
+**Cycle préparatoire (2AP), ENSA Tétouan** (2022 - 2024)
 
-### 🤖 Machine Learning & Deep Learning
+**Baccalauréat Sciences Physiques, mention Très Bien**, Lycée Med Ben El Hassan El Ouazzani, Khémisset (2022)
 
-* **Scikit-learn**
-* **TensorFlow / Keras**
-* **CNN**
-* **Random Forest**
-* **XGBoost**
-* **YOLO**
-* Évaluation et optimisation des modèles
-
-### 👁️ Computer Vision
-
-* **OpenCV**
-* Classification et détection d'objets
-* Traitement et préparation d'images
-* Inférence en temps réel
-
-### 📝 NLP & Web Mining
-
-* Natural Language Processing
-* Web Mining
-* Analyse de données textuelles
-* Détection d'anomalies
-* Classification et analyse de contenu
-
-### 🗄️ Bases de données & Data Engineering
-
-* **MongoDB**
-* **SQLite**
-* **Prisma**
-* Prétraitement et transformation des données
-* ETL / Data Processing
-
-### ☁️ MLOps & Cloud
-
-* **Microsoft Azure**
-* **Azure Machine Learning**
-* **MLflow**
-* **Docker**
-* **Azure Container Registry**
-* **CI/CD**
-* **Git & GitHub**
+Vie associative : membre des clubs IA et Mécatronique de l'ENSA Tétouan (organisation d'un événement Microsoft et de la Compétition Nationale de la Robotique) et participation à des hackathons à Rabat et à Martil.
 
 ---
 
-# 🚀 Projets principaux
+## Expérience professionnelle
 
-## 💧 AquaMaroc — Surveillance du stress hydrique
+**Stage PFA, Smartovate** (juillet - août 2026)
+*Pipeline MLOps sur Azure Machine Learning*
 
-Plateforme dédiée à la **surveillance et à l'analyse du stress hydrique au Maroc**.
+- Automatisation du pipeline d'entraînement d'un modèle de régression (Scikit-learn) avec Azure Machine Learning
+- Suivi des expériences et versioning des modèles avec MLflow
+- CI/CD avec GitHub Actions et déploiement du modèle en API REST via un endpoint Azure ML
+- A/B testing entre un modèle champion (80 %) et un challenger (20 %)
 
-Le projet exploite différentes sources de données environnementales, satellitaires, climatiques et hydrologiques afin de suivre l'évolution de la situation hydrique dans les différentes régions marocaines.
-
-Le projet comprend également des traitements de données, des indicateurs environnementaux, de la modélisation prédictive et une interface de visualisation permettant d'explorer les informations par région.
-
-**Technologies :** Python • Machine Learning • Data Processing • Données satellitaires • NLP • React • TypeScript • SQLite • Prisma
-
----
-
-## 🤟 Traduction en temps réel de la langue des signes ASL
-
-Projet de **Deep Learning et Computer Vision** permettant de reconnaître des signes de l'American Sign Language à partir d'une caméra.
-
-Le système traite les données, entraîne et évalue un modèle de Deep Learning, puis utilise la caméra pour effectuer une reconnaissance en temps réel et convertir les signes détectés en **texte et en parole**.
-
-**Technologies :** Python • TensorFlow • Keras • OpenCV • CNN • NumPy • Pandas
+Code source : [mlops-california-housing](https://github.com/amalafenich/mlops-california-housing)
 
 ---
 
-## ♻️ Smart Waste Bin
+## Compétences techniques
 
-Système intelligent de **détection et classification des déchets en temps réel** utilisant la vision par ordinateur.
+**Programmation et bases de données**  
+Python · SQL · Oracle SQL · MongoDB · SQLite · Prisma
 
-Le projet comprend la création et la préparation du dataset, l'annotation des images et l'entraînement d'un modèle **YOLO** pour identifier différentes catégories de déchets.
+**Data Engineering**  
+Kafka · Spark / PySpark · InfluxDB · ETL · Pipelines de données en temps réel · Web scraping (Selenium)
 
-**Technologies :** Python • YOLO • Computer Vision • OpenCV • Data Preparation
+**Intelligence Artificielle**  
+Machine Learning · Deep Learning · NLP · Computer Vision · MLOps
 
----
+**Frameworks et modèles**  
+Scikit-learn · TensorFlow / Keras · CNN · Random Forest · XGBoost · YOLO · OpenCV · MediaPipe
 
-## 💊 Bio-Sentry — Web Mining & Pharmacovigilance
+**Analyse et Business Intelligence**  
+Power BI · Tableau · Pandas · NumPy · Matplotlib · Streamlit · Grafana
 
-Projet de **Web Mining et d'Intelligence Artificielle** consacré à l'analyse de données liées aux médicaments et à la détection de signaux potentiels d'effets indésirables.
-
-Le projet combine la collecte et l'agrégation de données, le traitement du langage naturel, l'analyse des relations entre médicaments et effets indésirables ainsi que différentes méthodes de **détection d'anomalies et de clustering**.
-
-**Technologies :** Python • NLP • Web Mining • MongoDB • Machine Learning • Anomaly Detection • Clustering
-
----
-
-## ☁️ Pipeline MLOps automatisé sur Azure
-
-Projet consacré à la mise en place d'un **pipeline automatisé d'entraînement, d'évaluation et de déploiement d'un modèle de Machine Learning**.
-
-Le projet utilise **Azure Machine Learning** pour gérer les expériences et les ressources de calcul, **MLflow** pour le suivi des métriques et des modèles, ainsi que **Docker** et **Azure Container Registry** pour la conteneurisation.
-
-Le pipeline intègre également une approche **CI/CD** et le déploiement du modèle sous forme d'API REST avec des endpoints managés Azure ML.
-
-**Technologies :** Python • Scikit-learn • Azure Machine Learning • MLflow • Docker • Azure Container Registry • CI/CD
+**Backend, DevOps et Cloud**  
+FastAPI · API REST · Docker · Azure Machine Learning · MLflow · Azure Container Registry · GitHub Actions · CI/CD · Git et GitHub
 
 ---
 
-# 📚 Actuellement en apprentissage
+## Projets sur GitHub
 
-Je continue à développer mes compétences dans les domaines suivants :
+**[BioSentry : détection précoce des effets secondaires de médicaments](https://github.com/amalafenich/biosentry)**  
+Plateforme de pharmacovigilance qui collecte des sources médicales publiques, extrait les effets secondaires par NLP, puis repère les signaux faibles grâce au clustering et à la détection d'anomalies.  
+*Python, Selenium, MongoDB, NLP, K-Means, HDBSCAN, Isolation Forest*
 
-* 🤖 Machine Learning avancé
-* 🧠 Deep Learning
-* ⚙️ MLOps & Machine Learning Engineering
-* ☁️ Cloud & AI
-* 📊 Data Engineering
-* 🔄 CI/CD pour les projets Data & IA
-* 📈 Industrialisation et déploiement des modèles ML
+**[Pipeline MLOps California Housing](https://github.com/amalafenich/mlops-california-housing)**  
+Chaîne complète sur Azure Machine Learning : entraînement automatisé, suivi des expériences avec MLflow, CI/CD avec GitHub Actions et déploiement A/B d'un modèle derrière une API REST.  
+*Azure ML, MLflow, Docker, GitHub Actions*
+
+**[Streaming de données météo en temps réel](https://github.com/amalafenich/weather-streaming-pipeline)**  
+Données de deux API transmises par Kafka, traitées avec Spark Structured Streaming, stockées dans InfluxDB et affichées dans des tableaux de bord Grafana.  
+*Kafka, Spark, InfluxDB, Grafana, Docker*
+
+**[SignSense AI : reconnaissance de la langue des signes](https://github.com/amalafenich/asl-sign-language-recognition)**  
+Application web qui reconnaît en temps réel l'alphabet de la langue des signes américaine à partir de la webcam, puis construit le texte et le lit à voix haute.  
+*TensorFlow, CNN, MediaPipe, FastAPI, React*
+
+**[Jeu contrôlé par gestes](https://github.com/amalafenich/car-game)**  
+Jeu 2D piloté par les gestes de la main : MediaPipe lit la webcam et la voiture réagit en temps réel.  
+*Python, MediaPipe, OpenCV, Pygame*
 
 ---
 
-# 📊 Mon activité GitHub
+## Autres projets (code source non publié)
+
+**AquaMaroc : suivi du stress hydrique**  
+Plateforme qui exploite des données climatiques, hydrologiques et satellitaires pour suivre la situation de l'eau dans les régions du Maroc, avec indicateurs, modèles prédictifs et visualisation par région.  
+*Python, Machine Learning, React, TypeScript, SQLite, Prisma*
+
+**Smart Waste Bin**  
+Détection et classification de déchets en temps réel : création et annotation du jeu de données, puis entraînement d'un modèle YOLO.  
+*Python, YOLO, OpenCV*
+
+---
+
+## 📊 Mon activité GitHub
 
 Je partage ici mes projets, expérimentations et travaux pratiques autour de la **Data et de l'Intelligence Artificielle**.
 
@@ -157,7 +102,7 @@ Je partage ici mes projets, expérimentations et travaux pratiques autour de la 
 
 ---
 
-# 📫 Me contacter
+## 📫 Me contacter
 
 * 💼 **LinkedIn :** https://www.linkedin.com/in/amal-afenich-17257a2a8/
 * 📧 **Email :** afenichamal15@gmail.com
@@ -166,4 +111,3 @@ Je partage ici mes projets, expérimentations et travaux pratiques autour de la 
 ---
 
 ⭐ **Merci de visiter mon profil !**
-

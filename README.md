@@ -68,57 +68,47 @@ FastAPI · API REST · Docker · Azure Machine Learning · MLflow · Azure Conta
 ### [BioSentry : détection précoce des effets secondaires de médicaments](https://github.com/amalafenich/biosentry)
 
 Plateforme qui suit les effets secondaires des médicaments et alerte quand la tendance devient anormale. Projet d'équipe (4 étudiantes) pour le module Web Analysis.
-
-**Points clés**
 - 7 sources publiques collectées pour 513 médicaments
 - Extraction des effets secondaires avec BioBERT
 - Alertes à 4 niveaux grâce à trois détecteurs d'anomalies combinés
 
-*Python, Selenium, MongoDB, NLP, BioBERT, K-Means, HDBSCAN, Isolation Forest*
+**Technologies utilisées :** *Python, Selenium, MongoDB, NLP, BioBERT, K-Means, HDBSCAN, Isolation Forest*
 
 ### [Pipeline MLOps California Housing](https://github.com/amalafenich/mlops-california-housing)
 
 Chaîne automatisée qui mène un modèle de prédiction de prix immobiliers de l'entraînement à la production sur Azure. Réalisée pendant mon stage chez Smartovate.
-
-**Points clés**
 - Entraînement automatisé et suivi des expériences avec MLflow
 - Modèle publié seulement s'il atteint un R² d'au moins 0,7
 - Déploiement automatique en API REST, avec deux versions comparées (80 % / 20 %)
 
-*Azure ML, MLflow, Docker, GitHub Actions, Azure Container Registry*
+**Technologies utilisées :** *Azure ML, MLflow, Docker, GitHub Actions, Azure Container Registry*
 
 ### [Streaming de données météo en temps réel](https://github.com/amalafenich/weather-streaming-pipeline)
 
 Pipeline temps réel qui récupère la météo auprès de deux fournisseurs. Les mesures sont comparées dans des tableaux de bord Grafana.
-
-**Points clés**
 - Deux API interrogées toutes les 30 secondes
 - Kafka, puis Spark Structured Streaming, puis InfluxDB
 - Toute l'infrastructure se lance avec Docker Compose
 
-*Kafka, Spark, InfluxDB, Grafana, Docker*
+**Technologies utilisées :** *Kafka, Spark, InfluxDB, Grafana, Docker*
 
 ### [SignSense AI : reconnaissance de la langue des signes](https://github.com/amalafenich/asl-sign-language-recognition)
 
 Application web qui reconnaît en temps réel l'alphabet de la langue des signes américaine via la webcam. Prototype académique de groupe, limité aux lettres statiques.
-
-**Points clés**
 - 21 points de la main détectés avec MediaPipe
 - Un réseau CNN classe les lettres de A à Z
 - Les lettres forment des phrases, traduites et lues à voix haute
 
-*TensorFlow, Keras, CNN, MediaPipe, FastAPI, React*
+**Technologies utilisées :** *TensorFlow, Keras, CNN, MediaPipe, FastAPI, React*
 
 ### [Jeu contrôlé par gestes](https://github.com/amalafenich/car-game)
 
 Jeu d'esquive en 2D piloté par les gestes de la main, sans clavier ni manette. La voiture réagit en temps réel devant la webcam.
-
-**Points clés**
 - 4 gestes reconnus, chacun associé à une action
 - Jeu fluide à 60 images par seconde, avec obstacles aléatoires
 - Un nouveau niveau toutes les 15 secondes
 
-*Python, MediaPipe, OpenCV, Pygame*
+**Technologies utilisées :** *Python, MediaPipe, OpenCV, Pygame*
 
 ---
 
@@ -127,24 +117,20 @@ Jeu d'esquive en 2D piloté par les gestes de la main, sans clavier ni manette. 
 ### AquaMaroc : suivi du stress hydrique
 
 Plateforme de suivi du stress hydrique au Maroc à partir de données climatiques, hydrologiques et satellitaires. Elle propose des indicateurs et une visualisation région par région.
-
-**Points clés**
 - Données environnementales de plusieurs sources
 - Indicateurs et modélisation prédictive
 - Interface de visualisation par région
 
-*Python, Machine Learning, NLP, React, TypeScript, SQLite, Prisma*
+**Technologies utilisées :** *Python, Machine Learning, NLP, React, TypeScript, SQLite, Prisma*
 
 ### Smart Waste Bin
 
 Système de détection et de classification de déchets en temps réel grâce à la vision par ordinateur. Un modèle YOLO reconnaît plusieurs catégories de déchets.
-
-**Points clés**
 - Création du jeu de données et annotation des images
 - Entraînement du modèle YOLO
 - Détection en temps réel
 
-*Python, YOLO, OpenCV*
+**Technologies utilisées :** *Python, YOLO, OpenCV*
 
 ---
 

@@ -1,153 +1,153 @@
 # Amal Afenich
 
-Élève ingénieure en dernière année Big Data et Intelligence Artificielle à l'ENSA Tétouan.
+Final-year engineering student in Big Data and Artificial Intelligence at ENSA Tétouan.
 
-Je transforme des données brutes en modèles et en applications utilisables. Ce qui me motive : suivre un projet de bout en bout, de la collecte des données jusqu'au déploiement, et comprendre pourquoi un modèle fonctionne, pas seulement qu'il fonctionne.
+I turn raw data into models and applications people can actually use. What drives me: following a project end to end, from data collection to deployment, and understanding why a model works, not just that it works.
 
-**Je recherche un stage PFE à partir de janvier 2027** en Data Science, Machine Learning Engineering, MLOps ou Data Engineering.
+**I am looking for a final-year project (PFE) internship starting January 2027** in Data Science, Machine Learning Engineering, MLOps or Data Engineering.
 
-Portfolio : [amalafenich.github.io](https://amalafenich.github.io)
-
----
-
-## Parcours
-
->
-> ### ENSA TÉTOUAN — Big Data & Intelligence Artificielle (2024 — PRÉSENT)
->
-> Formation d'ingénieur avancée, centrée sur les systèmes Data & IA de bout en bout : ingénierie des données, bases de données, analyse, machine learning, traitement distribué, API et applications intelligentes, à travers des projets.
-
->
-> ### ENSA TÉTOUAN - Cycle préparatoire (2AP) (2022 — 2024)
->
-> Une base scientifique et technique rigoureuse, construite autour des mathématiques, des algorithmes, de la programmation et de la résolution de problèmes, pour acquérir la profondeur d'analyse nécessaire au cycle ingénieur Big Data & IA
->
-> ### Baccalauréat Sciences Physiques — Mention Très Bien (2022)
->
-> Diplôme obtenu avec la mention Très Bien à LYCÉE MED BEN EL HASSAN EL OUAZZANI · KHÉMISSET 
-
----
-## Expérience professionnelle
-
-**Stage PFA, Smartovate** (juillet - août 2026)
-*Pipeline MLOps sur Azure Machine Learning*
-
-- Automatisation du pipeline d'entraînement d'un modèle de régression (Scikit-learn) avec Azure Machine Learning
-- Suivi des expériences et versioning des modèles avec MLflow
-- CI/CD avec GitHub Actions et déploiement du modèle en API REST via un endpoint Azure ML
-- A/B testing entre un modèle champion (80 %) et un challenger (20 %)
-
-Code source : [mlops-california-housing](https://github.com/amalafenich/mlops-california-housing)
+Portfolio: [amalafenich.github.io](https://amalafenich.github.io)
 
 ---
 
-## Compétences techniques
+## Background
 
-**Programmation et bases de données**  
+>
+> ### ENSA TÉTOUAN — Big Data & Artificial Intelligence (2024 — PRESENT)
+>
+> Advanced engineering training centered on end-to-end Data & AI systems: data engineering, databases, analytics, machine learning, distributed processing, APIs and intelligent applications, through project-based work.
+
+>
+> ### ENSA TÉTOUAN - Preparatory Cycle (2AP) (2022 — 2024)
+>
+> A rigorous scientific and technical foundation built around mathematics, algorithms, programming and problem-solving, to acquire the analytical depth required for the Big Data & AI engineering cycle.
+>
+> ### Baccalauréat in Physical Sciences — Very Good Honors (2022)
+>
+> Diploma obtained with Very Good honors (Mention Très Bien) at LYCÉE MED BEN EL HASSAN EL OUAZZANI · KHÉMISSET
+
+---
+## Professional Experience
+
+**PFA Internship, Smartovate** (July - August 2026)
+*MLOps pipeline on Azure Machine Learning*
+
+- Automated the training pipeline of a regression model (Scikit-learn) with Azure Machine Learning
+- Experiment tracking and model versioning with MLflow
+- CI/CD with GitHub Actions and model deployment as a REST API via an Azure ML endpoint
+- A/B testing between a champion model (80%) and a challenger (20%)
+
+Source code: [mlops-california-housing](https://github.com/amalafenich/mlops-california-housing)
+
+---
+
+## Technical Skills
+
+**Programming and Databases**  
 Python · SQL · Oracle SQL · MongoDB · SQLite 
 
 **Data Engineering**  
 Kafka · Spark / PySpark · InfluxDB · ETL  · Web scraping
 
-**Intelligence Artificielle**  
+**Artificial Intelligence**  
 Machine Learning · Deep Learning · NLP · Computer Vision · MLOps
 
-**Frameworks et modèles**  
+**Frameworks and Models**  
 Scikit-learn · TensorFlow / Keras · CNN ·YOLO · OpenCV · MediaPipe
 
-**Analyse et Business Intelligence**  
+**Analytics and Business Intelligence**  
 Power BI · Tableau · Pandas · NumPy · Matplotlib · Streamlit · Grafana
 
-**Backend, DevOps et Cloud**  
-FastAPI · API REST · Docker · Azure Machine Learning · MLflow · Azure Container Registry · GitHub Actions · CI/CD · Git et GitHub
+**Backend, DevOps and Cloud**  
+FastAPI · REST API · Docker · Azure Machine Learning · MLflow · Azure Container Registry · GitHub Actions · CI/CD · Git and GitHub
 
 ---
 
-## Projets sur GitHub
+## GitHub Projects
 
-### [BioSentry : détection précoce des effets secondaires de médicaments](https://github.com/amalafenich/biosentry)
+### [BioSentry: early detection of drug side effects](https://github.com/amalafenich/biosentry)
 
-Plateforme qui suit les effets secondaires des médicaments et alerte quand la tendance devient anormale. Projet d'équipe (4 étudiantes) pour le module Web Analysis.
-- 7 sources publiques collectées pour 513 médicaments
-- Extraction des effets secondaires avec BioBERT
-- Alertes à 4 niveaux grâce à trois détecteurs d'anomalies combinés
+Platform that tracks drug side effects and raises an alert when the trend becomes abnormal. Team project (4 students) for the Web Analysis module.
+- 7 public sources collected for 513 drugs
+- Side effect extraction with BioBERT
+- 4-level alerts using three combined anomaly detectors
 
-**Technologies utilisées :** *Python, Selenium, MongoDB, NLP, BioBERT, K-Means, HDBSCAN, Isolation Forest*
+**Technologies used:** *Python, Selenium, MongoDB, NLP, BioBERT, K-Means, HDBSCAN, Isolation Forest*
 
-### [Pipeline MLOps California Housing](https://github.com/amalafenich/mlops-california-housing)
+### [California Housing MLOps Pipeline](https://github.com/amalafenich/mlops-california-housing)
 
-Chaîne automatisée qui mène un modèle de prédiction de prix immobiliers de l'entraînement à la production sur Azure. Réalisée pendant mon stage chez Smartovate.
-- Entraînement automatisé et suivi des expériences avec MLflow
-- Modèle publié seulement s'il atteint un R² d'au moins 0,7
-- Déploiement automatique en API REST, avec deux versions comparées (80 % / 20 %)
+Automated chain that takes a house price prediction model from training to production on Azure. Built during my internship at Smartovate.
+- Automated training and experiment tracking with MLflow
+- Model published only if it reaches an R² of at least 0.7
+- Automatic deployment as a REST API, with two versions compared (80% / 20%)
 
-**Technologies utilisées :** *Azure ML, MLflow, Docker, GitHub Actions, Azure Container Registry*
+**Technologies used:** *Azure ML, MLflow, Docker, GitHub Actions, Azure Container Registry*
 
-### [Streaming de données météo en temps réel](https://github.com/amalafenich/weather-streaming-pipeline)
+### [Real-Time Weather Data Streaming](https://github.com/amalafenich/weather-streaming-pipeline)
 
-Pipeline temps réel qui récupère la météo auprès de deux fournisseurs. Les mesures sont comparées dans des tableaux de bord Grafana.
-- Deux API interrogées toutes les 30 secondes
-- Kafka, puis Spark Structured Streaming, puis InfluxDB
-- Toute l'infrastructure se lance avec Docker Compose
+Real-time pipeline that retrieves weather data from two providers. The measurements are compared in Grafana dashboards.
+- Two APIs queried every 30 seconds
+- Kafka, then Spark Structured Streaming, then InfluxDB
+- The whole infrastructure starts with Docker Compose
 
-**Technologies utilisées :** *Kafka, Spark, InfluxDB, Grafana, Docker*
+**Technologies used:** *Kafka, Spark, InfluxDB, Grafana, Docker*
 
-### [SignSense AI : reconnaissance de la langue des signes](https://github.com/amalafenich/asl-sign-language-recognition)
+### [SignSense AI: sign language recognition](https://github.com/amalafenich/asl-sign-language-recognition)
 
-Application web qui reconnaît en temps réel l'alphabet de la langue des signes américaine via la webcam. Prototype académique de groupe, limité aux lettres statiques.
-- 21 points de la main détectés avec MediaPipe
-- Un réseau CNN classe les lettres de A à Z
-- Les lettres forment des phrases, traduites et lues à voix haute
+Web application that recognizes the American Sign Language alphabet in real time through the webcam. Academic group prototype, limited to static letters.
+- 21 hand landmarks detected with MediaPipe
+- A CNN classifies the letters from A to Z
+- Letters form sentences, which are translated and read aloud
 
-**Technologies utilisées :** *TensorFlow, Keras, CNN, MediaPipe, FastAPI, React*
+**Technologies used:** *TensorFlow, Keras, CNN, MediaPipe, FastAPI, React*
 
-### [Jeu contrôlé par gestes](https://github.com/amalafenich/car-game)
+### [Gesture-Controlled Game](https://github.com/amalafenich/car-game)
 
-Jeu d'esquive en 2D piloté par les gestes de la main, sans clavier ni manette. La voiture réagit en temps réel devant la webcam.
-- 4 gestes reconnus, chacun associé à une action
-- Jeu fluide à 60 images par seconde, avec obstacles aléatoires
-- Un nouveau niveau toutes les 15 secondes
+2D dodging game controlled by hand gestures, with no keyboard or controller. The car reacts in real time in front of the webcam.
+- 4 recognized gestures, each tied to an action
+- Smooth gameplay at 60 frames per second, with random obstacles
+- A new level every 15 seconds
 
-**Technologies utilisées :** *Python, MediaPipe, OpenCV, Pygame*
+**Technologies used:** *Python, MediaPipe, OpenCV, Pygame*
 
 ---
 
-## Autres projets (code source non publié)
+## Other Projects (source code not published)
 
-### AquaMaroc : suivi du stress hydrique
+### AquaMaroc: water stress monitoring
 
-Plateforme de suivi du stress hydrique au Maroc à partir de données climatiques, hydrologiques et satellitaires. Elle propose des indicateurs et une visualisation région par région.
-- Données environnementales de plusieurs sources
-- Indicateurs et modélisation prédictive
-- Interface de visualisation par région
+Platform for monitoring water stress in Morocco using climate, hydrological and satellite data. It provides indicators and region-by-region visualization.
+- Environmental data from several sources
+- Indicators and predictive modeling
+- Visualization interface by region
 
-**Technologies utilisées :** *Python, Machine Learning, NLP, React, TypeScript, SQLite, Prisma*
+**Technologies used:** *Python, Machine Learning, NLP, React, TypeScript, SQLite, Prisma*
 
 ### Smart Waste Bin
 
-Système de détection et de classification de déchets en temps réel grâce à la vision par ordinateur. Un modèle YOLO reconnaît plusieurs catégories de déchets.
-- Création du jeu de données et annotation des images
-- Entraînement du modèle YOLO
-- Détection en temps réel
+System for real-time waste detection and classification using computer vision. A YOLO model recognizes several waste categories.
+- Dataset creation and image annotation
+- YOLO model training
+- Real-time detection
 
-**Technologies utilisées :** *Python, YOLO, OpenCV*
+**Technologies used:** *Python, YOLO, OpenCV*
 
 ---
 
-## 📊 Mon activité GitHub
+## 📊 My GitHub Activity
 
-Je partage ici mes projets, expérimentations et travaux pratiques autour de la **Data et de l'Intelligence Artificielle**.
+I share my projects, experiments and hands-on work around **Data and Artificial Intelligence** here.
 
 > *Learning, building, and continuously improving.* 🚀
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me
 
-* 💼 **LinkedIn :** https://www.linkedin.com/in/amal-afenich-17257a2a8/
-* 📧 **Email :** afenichamal15@gmail.com
-* 💻 **GitHub :** https://github.com/amalafenich
+* 💼 **LinkedIn:** https://www.linkedin.com/in/amal-afenich-17257a2a8/
+* 📧 **Email:** afenichamal15@gmail.com
+* 💻 **GitHub:** https://github.com/amalafenich
 
 ---
 
-⭐ **Merci de visiter mon profil !**
+⭐ **Thanks for visiting my profile!**

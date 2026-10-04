@@ -18,8 +18,6 @@ Portfolio : [amalafenich.github.io](https://amalafenich.github.io)
 
 **Baccalauréat Sciences Physiques, mention Très Bien**, Lycée Med Ben El Hassan El Ouazzani, Khémisset (2022)
 
-Vie associative : membre des clubs IA et Mécatronique de l'ENSA Tétouan (organisation d'un événement Microsoft et de la Compétition Nationale de la Robotique) et participation à des hackathons à Rabat et à Martil.
-
 ---
 
 ## Expérience professionnelle

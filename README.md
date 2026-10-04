@@ -17,7 +17,6 @@ Portfolio : [amalafenich.github.io](https://amalafenich.github.io)
 >
 > Formation d'ingénieur avancée, centrée sur les systèmes Data & IA de bout en bout : ingénierie des données, bases de données, analyse, machine learning, traitement distribué, API et applications intelligentes, à travers des projets.
 
-> **02 &nbsp;&nbsp; 2022 — 2024 · TERMINÉ**
 >
 > ### ENSA TÉTOUAN - Cycle préparatoire (2AP) (2022 — 2024)
 >

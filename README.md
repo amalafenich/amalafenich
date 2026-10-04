@@ -147,6 +147,7 @@ I share my projects, experiments and hands-on work around **Data and Artificial 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/amal-afenich-17257a2a8/
 * 📧 **Email:** afenichamal15@gmail.com
 * 💻 **GitHub:** https://github.com/amalafenich
+* 🌐 **Portfolio:** https://amalafenich.github.io
 
 ---
 

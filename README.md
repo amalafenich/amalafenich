@@ -44,16 +44,16 @@ Code source : [mlops-california-housing](https://github.com/amalafenich/mlops-ca
 ## Compétences techniques
 
 **Programmation et bases de données**  
-Python · SQL · Oracle SQL · MongoDB · SQLite · Prisma
+Python · SQL · Oracle SQL · MongoDB · SQLite 
 
 **Data Engineering**  
-Kafka · Spark / PySpark · InfluxDB · ETL · Pipelines de données en temps réel · Web scraping (Selenium)
+Kafka · Spark / PySpark · InfluxDB · ETL  · Web scraping
 
 **Intelligence Artificielle**  
 Machine Learning · Deep Learning · NLP · Computer Vision · MLOps
 
 **Frameworks et modèles**  
-Scikit-learn · TensorFlow / Keras · CNN · Random Forest · XGBoost · YOLO · OpenCV · MediaPipe
+Scikit-learn · TensorFlow / Keras · CNN ·YOLO · OpenCV · MediaPipe
 
 **Analyse et Business Intelligence**  
 Power BI · Tableau · Pandas · NumPy · Matplotlib · Streamlit · Grafana

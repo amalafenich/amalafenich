@@ -12,11 +12,10 @@ Portfolio : [amalafenich.github.io](https://amalafenich.github.io)
 
 ## Parcours
 
-> **01 &nbsp;&nbsp; 2024 — PRÉSENT · DERNIÈRE ANNÉE**
 >
 > **ENSA TÉTOUAN**
 >
-> ### Diplôme d'ingénieur d'État — Big Data & Intelligence Artificielle
+> ### Diplôme d'ingénieur d'État — Big Data & Intelligence Artificielle  ** 2024 — PRÉSENT **
 >
 > Formation d'ingénieur avancée, centrée sur les systèmes Data & IA de bout en bout : ingénierie des données, bases de données, analyse, machine learning, traitement distribué, API et applications intelligentes, à travers des projets.
 
